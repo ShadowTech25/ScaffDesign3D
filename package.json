@@ -1,1 +1,17 @@
-
+{
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@mui/material": "^5.11.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.2",
+    "axios": "^1.2.2",
+    "styled-components": "^5.3.6",
+    "react-scripts": "5.0.1"
+  }
+}
