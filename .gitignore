@@ -123,6 +123,10 @@ dist
 .dynamodb/
 
 # TernJS port file
+node_modules/
+.env
+.DS_Store
+build/
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
