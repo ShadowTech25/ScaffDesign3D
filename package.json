@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "react-scripts start",
-    "start": "nodeape.js"
+    "start": "nodeapp.js"
     "build": "react-scripts build"
   },
   "dependencies": {
