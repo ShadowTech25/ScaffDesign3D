@@ -1,9 +1,9 @@
-"scripts": {
+
   "start": "react-scripts start",
   "build": "react-scripts build",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
-},
+
   "dependencies": {
     "@mui/material": "^5.11.0",
     "@emotion/react": "^11.10.6",
